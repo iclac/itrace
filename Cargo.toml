@@ -1,0 +1,8 @@
+[package]
+name = "itrace"
+version = "0.1.0"
+edition = "2024"
+authors = ["Claudio Carraro iclac - wiclac@pm.me"]
+license = "BSD 3-Clause"
+
+[dependencies]
