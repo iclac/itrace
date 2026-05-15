@@ -8,6 +8,6 @@ repository = "https://github.com/iclac/itrace"
 
 description = "A configurable **columnar terminal tracer** for Rust."
 
-license = "BSD 3-Clause"
+license = "BSD-3-Clause"
 
 [dependencies]
