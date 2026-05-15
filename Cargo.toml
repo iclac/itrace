@@ -3,6 +3,11 @@ name = "itrace"
 version = "0.1.0"
 edition = "2024"
 authors = ["Claudio Carraro iclac - wiclac@pm.me"]
+
+repository = "https://github.com/iclac/itrace"
+
+description = "A configurable **columnar terminal tracer** for Rust."
+
 license = "BSD 3-Clause"
 
 [dependencies]
